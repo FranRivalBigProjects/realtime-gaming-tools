@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let p=+players.value,l=+lat.value;res.innerText='Avg latency: '+l+' ms for '+p+' players';}

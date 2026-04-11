@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let p=+players.value,r=+req.value;res.innerText='Req/player: '+(r/p).toFixed(2);}
